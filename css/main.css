@@ -21,6 +21,7 @@ body {
   width: 320px;
   margin: 0 auto;
   position: relative;
+  top: 3.5em;
 }
 
 .robot-body {
@@ -51,9 +52,9 @@ body {
 }
 
 .robot-head-left:hover {
-  float: left;
+  left: -4em;
 }
 
 .robot-head-right:hover {
-  float: right;
+  left: 14em;
 }
